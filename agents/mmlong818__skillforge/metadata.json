@@ -1,0 +1,14 @@
+{
+  "name": "skillforge",
+  "author": "mmlong818",
+  "description": "AI agent that generates production-grade Agent Skill packages via a structured 7-step pipeline: analysis, architecture, metadata, SKILL.md, audit, resources, and usage docs.",
+  "repository": "https://github.com/shreyas-lyzr/skillforge",
+  "version": "1.4.0",
+  "category": "developer-tools",
+  "tags": ["agent-skills", "skill-generator", "claude", "prompt-engineering", "ai-agents", "productivity", "developer-tools"],
+  "license": "CC-BY-NC-SA-4.0",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
