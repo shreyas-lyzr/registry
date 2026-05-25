@@ -1,0 +1,15 @@
+{
+  "name": "koder",
+  "author": "feiskyer",
+  "description": "Open-source terminal-first AI coding assistant with streaming TUI, persistent sessions, multi-provider LLM routing, extensible skills, MCP integrations, and multi-agent workflows.",
+  "repository": "https://github.com/feiskyer/koder",
+  "path": "",
+  "version": "0.5.3",
+  "category": "developer-tools",
+  "tags": ["coding-assistant", "terminal", "cli", "multi-provider", "litellm", "mcp", "multi-agent", "skills", "python", "open-source"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
