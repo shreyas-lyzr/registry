@@ -1,0 +1,15 @@
+{
+  "name": "learn-claude-code",
+  "author": "shareAI-lab",
+  "description": "A 20-chapter, hands-on curriculum for building Claude Code–style agent harnesses: tools, skills, subagents, task graphs, autonomous agents, and more.",
+  "repository": "https://github.com/shareAI-lab/learn-claude-code",
+  "path": "",
+  "version": "1.0.0",
+  "category": "education",
+  "tags": ["claude-code", "agent-harness", "tutorial", "anthropic", "llm", "developer-tools", "python", "autonomous-agents"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
