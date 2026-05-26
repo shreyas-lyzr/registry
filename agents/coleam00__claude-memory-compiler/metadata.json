@@ -1,0 +1,24 @@
+{
+  "name": "claude-memory-compiler",
+  "author": "coleam00",
+  "description": "Turns Claude Code sessions into a self-organising knowledge base — hooks capture transcripts, Claude Agent SDK extracts lessons, compiles cross-referenced articles. No RAG needed.",
+  "repository": "https://github.com/coleam00/claude-memory-compiler",
+  "path": "",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": [
+    "memory",
+    "knowledge-base",
+    "claude-code",
+    "productivity",
+    "hooks",
+    "agent-sdk",
+    "knowledge-management",
+    "personal-ai"
+  ],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
