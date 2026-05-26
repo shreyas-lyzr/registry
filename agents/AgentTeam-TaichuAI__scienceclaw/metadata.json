@@ -1,0 +1,15 @@
+{
+  "name": "scienceclaw",
+  "author": "AgentTeam-TaichuAI",
+  "description": "Self-hosted research assistant with 1,900+ scientific tools (drug discovery, astronomy, genomics, chemistry) — runs deep multi-source research and generates PDF/DOCX reports.",
+  "repository": "https://github.com/AgentTeam-TaichuAI/ScienceClaw",
+  "path": "",
+  "version": "1.0.0",
+  "category": "research",
+  "tags": ["research", "scientific-tools", "langchain", "deepagents", "multi-agent", "drug-discovery", "bioinformatics", "self-hosted", "pdf-report", "langgraph"],
+  "license": "MIT",
+  "model": "deepseek-chat",
+  "adapters": ["system-prompt", "lyzr"],
+  "icon": false,
+  "banner": false
+}
