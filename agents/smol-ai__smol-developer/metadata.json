@@ -1,0 +1,14 @@
+{
+  "name": "smol-developer",
+  "author": "smol-ai",
+  "description": "A human-centric junior developer agent that synthesises entire codebases from a single prompt — plans, specifies files, and generates fully-implemented code with no TODOs.",
+  "repository": "https://github.com/smol-ai/developer",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["codegen", "scaffolding", "developer-agent", "gpt-4", "openai", "code-generation"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
