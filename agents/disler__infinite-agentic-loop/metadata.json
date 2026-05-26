@@ -1,0 +1,13 @@
+{
+  "name": "infinite-agentic-loop",
+  "author": "disler",
+  "description": "Orchestrates parallel Claude Code sub-agents in waves to generate evolving, unique content iterations from a spec file — supporting single, batch, or infinite-mode generation.",
+  "repository": "https://github.com/shreyas-lyzr/infinite-agentic-loop",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["multi-agent", "parallel-agents", "claude-code", "code-generation", "agentic-loop", "wave-orchestration", "content-generation", "ui-generation"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false
+}
