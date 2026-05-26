@@ -1,0 +1,15 @@
+{
+  "name": "swiftui-agent-skill",
+  "author": "twostraws",
+  "description": "Reviews SwiftUI code for deprecated API, modern best practices, navigation, data-flow, accessibility, performance, and code hygiene. Targets iOS 26+ / Swift 6.2+.",
+  "repository": "https://github.com/shreyas-lyzr/SwiftUI-Agent-Skill",
+  "path": "",
+  "version": "1.1.0",
+  "category": "developer-tools",
+  "tags": ["swiftui", "swift", "ios", "apple", "code-review", "accessibility", "performance", "claude-code"],
+  "license": "MIT",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
