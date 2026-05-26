@@ -1,0 +1,13 @@
+{
+  "name": "prompt-factory",
+  "author": "haneef1104",
+  "description": "Multi-agent pipeline (Analyzer, Generator, Reviewer, Optimizer, Tester) that automatically generates, reviews, and delivers enterprise-grade prompt suites from a single description.",
+  "repository": "https://github.com/shreyas-lyzr/Prompt-Factory",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["prompt-engineering", "multi-agent", "llm", "code-generation", "productivity", "quality-assurance", "openai", "python", "flask"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["system-prompt", "openai"],
+  "icon": false
+}
