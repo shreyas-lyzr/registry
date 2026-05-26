@@ -1,0 +1,26 @@
+{
+  "name": "project-nova",
+  "author": "dujonwalker",
+  "description": "Self-hosted multi-agent AI hub: routes requests to 25+ MCP-powered specialists across knowledge mgmt, dev tools, media production, home automation & monitoring.",
+  "repository": "https://github.com/dujonwalker/project-nova",
+  "path": "",
+  "version": "1.0.0",
+  "category": "productivity",
+  "tags": [
+    "multi-agent",
+    "mcp",
+    "n8n",
+    "home-automation",
+    "self-hosted",
+    "router-agent",
+    "knowledge-management",
+    "media-production",
+    "openwebui",
+    "orchestration"
+  ],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["system-prompt", "claude-code"],
+  "icon": false,
+  "banner": false
+}
