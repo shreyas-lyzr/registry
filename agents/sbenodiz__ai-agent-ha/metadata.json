@@ -1,0 +1,15 @@
+{
+  "name": "ai-agent-ha",
+  "author": "sbenodiz",
+  "description": "Home Assistant custom integration: chat with your smart home in plain English to control devices, create automations, and build Lovelace dashboards via any AI provider.",
+  "repository": "https://github.com/sbenodiz/ai_agent_ha",
+  "path": "",
+  "version": "1.8.0",
+  "category": "productivity",
+  "tags": ["home-assistant", "smart-home", "automation", "iot", "openai", "anthropic", "gemini", "llama", "hacs", "lovelace"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
