@@ -1,0 +1,14 @@
+{
+  "name": "forge-guardrails",
+  "author": "antoinezambelli",
+  "description": "A reliability layer for self-hosted LLM tool-calling — guardrails, rescue parsing, retry loops, and proxy mode for Ollama, llama.cpp, vLLM, and Anthropic.",
+  "repository": "https://github.com/antoinezambelli/forge",
+  "version": "0.7.2",
+  "category": "developer-tools",
+  "tags": ["llm", "tool-calling", "guardrails", "self-hosted", "ollama", "llama-cpp", "proxy", "agentic", "reliability", "python"],
+  "license": "MIT",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["system-prompt", "claude-code"],
+  "icon": false,
+  "banner": false
+}
