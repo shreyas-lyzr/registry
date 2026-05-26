@@ -1,0 +1,14 @@
+{
+  "name": "scilink",
+  "author": "ziatdinovmax",
+  "description": "LLM-powered scientific research automation: multi-modal data analysis, Bayesian experiment planning, and DFT/MD simulation via three orchestrator agents.",
+  "repository": "https://github.com/ziatdinovmax/SciLink",
+  "version": "0.0.30",
+  "category": "research",
+  "tags": ["science", "materials-science", "spectroscopy", "microscopy", "dft", "bayesian-optimization", "llm-agents", "automation"],
+  "license": "MIT",
+  "model": "anthropic:claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
