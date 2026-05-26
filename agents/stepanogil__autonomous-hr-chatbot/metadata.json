@@ -1,0 +1,14 @@
+{
+  "name": "autonomous-hr-chatbot",
+  "author": "stepanogil",
+  "description": "Autonomous HR assistant answering employee queries on leave policies, balances, and HR data using OpenAI GPT with RAG over policy docs and employee CSV.",
+  "repository": "https://github.com/stepanogil/autonomous-hr-chatbot",
+  "version": "1.0.0",
+  "category": "customer-support",
+  "tags": ["hr", "chatbot", "langchain", "openai", "rag", "pinecone", "streamlit", "leave-management", "employee-tools"],
+  "license": "MIT",
+  "model": "openai:gpt-4o",
+  "adapters": ["openai", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
