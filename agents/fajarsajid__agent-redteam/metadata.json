@@ -1,0 +1,14 @@
+{
+  "name": "agent-redteam",
+  "author": "fajarsajid",
+  "description": "CLI red-team harness that uses Claude to probe AI agent system prompts for identity abuse, credential exfiltration, and safety boundary vulnerabilities across 8 MITRE-mapped attack categories.",
+  "repository": "https://github.com/fajarsajid/agent-redteam",
+  "version": "1.0.0",
+  "category": "security",
+  "tags": ["red-team", "ai-safety", "llm-security", "prompt-injection", "mitre-attack", "vulnerability-scanning", "claude", "adversarial-testing"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-20250514",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
