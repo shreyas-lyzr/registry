@@ -1,0 +1,14 @@
+{
+  "name": "claude-agents",
+  "author": "iannuttall",
+  "description": "Seven Claude Code sub-agents covering the full dev lifecycle: code refactoring, security auditing, PRD writing, task planning, frontend design, content writing, and vibe coaching.",
+  "repository": "https://github.com/iannuttall/claude-agents",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["claude-code", "sub-agents", "code-refactoring", "security", "prd", "frontend", "productivity"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
