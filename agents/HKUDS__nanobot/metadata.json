@@ -1,0 +1,13 @@
+{
+  "name": "nanobot",
+  "author": "HKUDS",
+  "description": "Lightweight open-source AI agent: small async loop, 13+ chat channels, multi-LLM provider, filesystem/shell/MCP tools, Dream memory, and skill/plugin extensibility.",
+  "repository": "https://github.com/HKUDS/nanobot",
+  "version": "0.2.0",
+  "category": "developer-tools",
+  "tags": ["ai-agent", "llm", "claude", "openai", "multi-channel", "telegram", "discord", "mcp", "memory", "open-source"],
+  "license": "MIT",
+  "model": "anthropic:claude-opus-4-5",
+  "adapters": ["claude-code", "openai", "system-prompt"],
+  "icon": false
+}
