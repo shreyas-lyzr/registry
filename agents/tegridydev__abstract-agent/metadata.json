@@ -1,0 +1,14 @@
+{
+  "name": "abstract-agent",
+  "author": "tegridydev",
+  "description": "Fully local multi-agent pipeline for generating novel research hypotheses and publication-ready abstracts using Ollama LLMs — no API keys, no cloud.",
+  "repository": "https://github.com/shreyas-lyzr/abstract-agent",
+  "version": "2.0.0",
+  "category": "research",
+  "tags": ["research", "hypothesis-generation", "ollama", "local-llm", "multi-agent", "arxiv", "pubmed", "academic", "literature-search", "privacy"],
+  "license": "MIT",
+  "model": "ollama:gemma3:4b",
+  "adapters": ["system-prompt"],
+  "icon": false,
+  "banner": false
+}
