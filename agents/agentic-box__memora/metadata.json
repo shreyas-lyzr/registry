@@ -1,0 +1,13 @@
+{
+  "name": "memora",
+  "author": "agentic-box",
+  "description": "Lightweight MCP server giving AI agents persistent memory — semantic storage, knowledge graph, vector search, LLM deduplication, document storage, and cross-session recall.",
+  "repository": "https://github.com/agentic-box/memora",
+  "version": "0.2.29",
+  "category": "developer-tools",
+  "tags": ["memory", "mcp", "knowledge-graph", "semantic-search", "persistent-memory", "sqlite", "claude-code", "rag", "ai-agent", "multi-agent"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "mcp", "system-prompt"],
+  "icon": false
+}
