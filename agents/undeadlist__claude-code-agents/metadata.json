@@ -1,0 +1,14 @@
+{
+  "name": "claude-code-agents",
+  "author": "undeadlist",
+  "description": "Complete E2E dev workflow for solo startups: 24 parallel Claude Code subagents (audit, fix, browser QA, deploy) + 6 workflow skills for Next.js/TypeScript projects.",
+  "repository": "https://github.com/undeadlist/claude-code-agents",
+  "version": "1.0.0",
+  "category": "developer-tools",
+  "tags": ["claude-code", "subagents", "audit", "code-quality", "solo-dev", "nextjs", "typescript", "qa", "devops", "full-stack"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-6",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
