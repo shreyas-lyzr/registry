@@ -1,0 +1,15 @@
+{
+  "name": "harness-evolver",
+  "author": "raphaelchristi",
+  "description": "Autonomous LLM agent optimizer for Claude Code. Evolves agent prompts, tools & architecture using multi-agent proposers, LangSmith evaluation, and git worktrees.",
+  "repository": "https://github.com/raphaelchristi/harness-evolver",
+  "path": "",
+  "version": "6.4.2",
+  "category": "developer-tools",
+  "tags": ["agent-optimization", "langsmith", "claude-code", "evolution", "meta-harness", "llm", "evaluation"],
+  "license": "MIT",
+  "model": "claude-sonnet-4-5-20250929",
+  "adapters": ["claude-code", "system-prompt"],
+  "icon": false,
+  "banner": false
+}
